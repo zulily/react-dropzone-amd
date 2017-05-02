@@ -1,14 +1,14 @@
 {
   "name": "react-dropzone-amd",
-  "version": "0.1.0",
-  "description": "A webpack packaging of react-drop-zone that is compatible with requireJs",
+  "version": "3.13.1",
+  "description": "A webpack packaging of react-dropzone that is compatible with react 14 and requireJs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"see composited dependencies for tests\" && exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/littlebee/react-focus-trap-amd.git"
+    "url": "https://github.com/zulily/react-dropzone-amd.git"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "Bee Wilkerson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/littlebee/react-dropzone-amd/issues"
+    "url": "https://github.com/zulily/react-dropzone-amd/issues"
   },
   "devDependencies": {
     "babel-core": "^6.6.5",
@@ -48,6 +48,6 @@
   "dependencies": {
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
-    "react-dropzone": "^3.13.1"
+    "react-dropzone": "3.13.1"
   }
 }
