@@ -31,7 +31,7 @@
     "bumble-docs": "^0.4.5",
     "bumble-test": "^0.1.5",
     "bumble-util": "^0.2.0",
-    "grunt": "^0.4.5",
+    "grunt": ">=1.3.0",
     "grunt-available-tasks": "^0.6.1",
     "grunt-coffee-react": "^2.4.1",
     "grunt-contrib-clean": "^1.0.0",
